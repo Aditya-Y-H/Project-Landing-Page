@@ -180,3 +180,14 @@ body {
     padding: 6px 24px;
     color: #f9faf8;
 }
+
+/* Footer section */
+
+#footer-section {
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
