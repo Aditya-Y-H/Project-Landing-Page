@@ -146,3 +146,37 @@ body {
     font-weight: bold; 
     text-align: right;
 }
+
+/* Call to action section */
+
+#call-to-action-section {
+    background-color: white;
+    padding: 80px 360px;
+}
+
+#call-to-action-box {
+    background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    padding: 48px;
+    border-radius: 12px;
+}
+
+#call-to-action-details {
+    flex: 1 0 700px;
+}
+
+#call-to-action-button {
+    flex: 1 0 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#call-to-action-button > button {
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+    padding: 6px 24px;
+    color: #f9faf8;
+}
