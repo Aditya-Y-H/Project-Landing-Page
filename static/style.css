@@ -126,3 +126,23 @@ body {
     height: var(--illustration-size);
     text-align: center;
 }
+
+/* Quote Section */
+
+#quote-section {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    padding: 120px 560px;
+}
+
+#quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300px;
+    font-style: italic;
+}
+
+#quote-attribution {
+    font-weight: bold; 
+    text-align: right;
+}
