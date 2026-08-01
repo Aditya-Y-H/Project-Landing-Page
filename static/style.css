@@ -79,8 +79,9 @@ body {
     color: #f9faf8;
     background-color: #3882f6;
     border: none;
-    padding: 6px 24px;
+    padding: 9px 36px;
     border-radius: 8px;
+    font-weight: bold;
 }
 
 #hero-section-image {
