@@ -54,12 +54,6 @@ body {
     padding: 48px;
 }
 
-/* #website-description {
-    display: flex;
-    flex-flow: column;
-}
-*/
-
 #website-description > div {
     padding: 8px;
 }
