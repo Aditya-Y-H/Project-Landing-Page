@@ -13,9 +13,9 @@ body {
 #header {
     display: flex;
     flex: 0 0 100%;
-    justify-content: space-between;
+    justify-content: center;
     background-color: #1f2937;
-    padding: 8px 248px;
+    padding: 8px 0;
 }
 
 #logo {
@@ -25,8 +25,8 @@ body {
 }
 
 
-#header div {
-    flex: 0 0 auto;
+#header > div {
+    flex: 0 0 26.5%;
 }
 
 #header-links-container ul {
@@ -36,6 +36,7 @@ body {
     padding: 0px;
     display: flex;
     align-items: center;
+    justify-content: end;
 }
 
 #header-links-container ul li a {
@@ -54,8 +55,7 @@ body {
 }
 
 #hero > div {
-    flex: 0 1 35%;
-    /* width: 35%; */
+    flex: 0 1 25%;
     padding: 48px;
 }
 
