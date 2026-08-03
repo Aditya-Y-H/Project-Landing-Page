@@ -119,6 +119,7 @@ body {
     display: flex;
     flex-flow: column;
     flex: 0 0 var(--illustration-size);
+    gap: 8px;
 }
 
 .illustration {
